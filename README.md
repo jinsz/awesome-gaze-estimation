@@ -129,9 +129,9 @@
     <th class="tg-baqh">Annotation type</th>
     <th class="tg-baqh">#Images</th>
     <th class="tg-baqh">Distance</th>
-    <th class="tg-baqh">Head pose <br>annotation</th>
-    <th class="tg-baqh">Gaze<br>Annotation<br></th>
-    <th class="tg-baqh">Head pose <br>orientation<br></th>
+    <th class="tg-baqh">Head pose<br>annot.</th>
+    <th class="tg-baqh">Gaze<br>annot.<br></th>
+    <th class="tg-baqh">Head pose<br>orient.<br></th>
   </tr>
   <tr>
     <td class="tg-0lax">BIWI</td>
