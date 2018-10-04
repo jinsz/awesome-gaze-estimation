@@ -138,7 +138,7 @@
     <td class="tg-baqh">RGB-D</td>
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">Head pose vector</td>
-    <td class="tg-baqh">15.500</td>
+    <td class="tg-baqh">&#x2248 15.500</td>
     <td class="tg-baqh">100cm</td>
     <td class="tg-baqh">Y</td>
     <td class="tg-baqh">N</td>
@@ -150,7 +150,7 @@
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">68 Facial landmarks</td>
     <td class="tg-baqh">755.370</td>
-    <td class="tg-baqh">300cm</td>
+    <td class="tg-baqh">&#x2248 300cm</td>
     <td class="tg-baqh">Y</td>
     <td class="tg-baqh">N</td>
     <td class="tg-baqh">All</td>
@@ -183,7 +183,7 @@
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">Head pose vector</td>
     <td class="tg-baqh">68.000</td>
-    <td class="tg-baqh">200-800cm</td>
+    <td class="tg-baqh">&#x2248 200-800cm</td>
     <td class="tg-baqh">Y</td>
     <td class="tg-baqh">N</td>
     <td class="tg-baqh">All</td>
@@ -193,7 +193,7 @@
     <td class="tg-baqh">RGB-D</td>
     <td class="tg-baqh">Face + eye patches</td>
     <td class="tg-baqh">Gaze vector</td>
-    <td class="tg-baqh">62.500</td>
+    <td class="tg-baqh">&#x2248 62.500</td>
     <td class="tg-baqh">80-120cm</td>
     <td class="tg-baqh">Y</td>
     <td class="tg-baqh">Y</td>
@@ -216,7 +216,7 @@
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">Head pose vector</td>
     <td class="tg-baqh">14.000</td>
-    <td class="tg-baqh">100cm</td>
+    <td class="tg-baqh">&#x2248 100cm</td>
     <td class="tg-baqh">Y</td>
     <td class="tg-baqh">N</td>
     <td class="tg-baqh">All</td>
@@ -237,7 +237,7 @@
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Tablet camera video</td>
     <td class="tg-baqh">2D pos on screen</td>
-    <td class="tg-baqh">100.000</td>
+    <td class="tg-baqh">&#x2248 100.000</td>
     <td class="tg-baqh">30-50cm</td>
     <td class="tg-baqh">N</td>
     <td class="tg-baqh">Y</td>
