@@ -124,7 +124,7 @@
 <table class="tg">
   <tr>
     <th class="tg-0lax">Dataset<br></th>
-    <th class="tg-baqh">RGB/RGB-D</th>
+    <th class="tg-baqh">RGB/<br>RGB-D<br></th>
     <th class="tg-baqh">Image type</th>
     <th class="tg-baqh">Annotation type</th>
     <th class="tg-baqh">#Images</th>
@@ -138,165 +138,165 @@
     <td class="tg-baqh">RGB-D</td>
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">Head pose vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">15.500</td>
+    <td class="tg-baqh">100cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">CMU Multi-Pie</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">68 Facial landmarks</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">755.370</td>
+    <td class="tg-baqh">300cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">Coffeebreak</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Low res. face image</td>
     <td class="tg-baqh">Head pose vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">18.117</td>
+    <td class="tg-baqh">Varying</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">Columbia</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">High res. camera image</td>
     <td class="tg-baqh">Gaze vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">5.880</td>
+    <td class="tg-baqh">200cm</td>
+    <td class="tg-baqh">5 orient.</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Frontal</td>
   </tr>
   <tr>
     <td class="tg-0lax">Deep Head Pose</td>
     <td class="tg-baqh">RGB-D</td>
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">Head pose vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">68.000</td>
+    <td class="tg-baqh">200-800cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">Eyediap</td>
     <td class="tg-baqh">RGB-D</td>
     <td class="tg-baqh">Face + eye patches</td>
     <td class="tg-baqh">Gaze vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">62.500</td>
+    <td class="tg-baqh">80-120cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Frontal</td>
   </tr>
   <tr>
     <td class="tg-0lax">Gaze Capture</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Face + eye patches</td>
     <td class="tg-baqh">2D pos on screen</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">> 2.5M</td>
+    <td class="tg-baqh">80-120cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Frontal</td>
   </tr>
   <tr>
     <td class="tg-0lax">ICT 3D Head pose</td>
     <td class="tg-baqh">RGB-D</td>
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">Head pose vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">14.000</td>
+    <td class="tg-baqh">100cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">MPII Gaze</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Face + eye patches</td>
     <td class="tg-baqh">Gaze vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">213.659</td>
+    <td class="tg-baqh">40-60cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Frontal</td>
   </tr>
   <tr>
     <td class="tg-0lax">Rice TabletGaze</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Tablet camera video</td>
     <td class="tg-baqh">2D pos on screen</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">100.000</td>
+    <td class="tg-baqh">30-50cm</td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Frontal</td>
   </tr>
   <tr>
     <td class="tg-0lax">RT-GENE</td>
     <td class="tg-baqh">RGB-D</td>
     <td class="tg-baqh">Face + eye patches</td>
     <td class="tg-baqh">Gaze vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">122.531</td>
+    <td class="tg-baqh">80-280cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">SynthesEyes</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Synthesized eye patches</td>
     <td class="tg-baqh">Gaze vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">11.382</td>
+    <td class="tg-baqh">Varying</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">UnityEyes</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Synthesized eye patches</td>
     <td class="tg-baqh">Gaze vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">1M</td>
+    <td class="tg-baqh">Varying</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">UT Multi-view</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">Eye area + eye patches</td>
     <td class="tg-baqh">Gaze vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">1.152.000</td>
+    <td class="tg-baqh">60cm</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">All</td>
   </tr>
   <tr>
     <td class="tg-0lax">Vernissage</td>
     <td class="tg-baqh">RGB</td>
     <td class="tg-baqh">(Robot) camera frame</td>
     <td class="tg-baqh">Head pose vector</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Unknown</td>
+    <td class="tg-baqh">Varying</td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-baqh">All</td>
   </tr>
 </table>
 
