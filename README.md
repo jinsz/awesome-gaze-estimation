@@ -74,6 +74,9 @@
 <h5><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[Sugano-etal2014] Learning-by-Synthesis for Appearance-Based 3D Gaze Estimation. <a href="https://ieeexplore.ieee.org/document/6909631" rel="nofollow">[PDF]</a>
 <p><em>Yusuke Sugano and Yasuyuki Matsushita and Yoichi Sato</em></p>
 
+<h5><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[Baltrusaitis-etal2012] 3D Constrained Local Model for rigid and non-rigid facial tracking. <a href="https://ieeexplore.ieee.org/document/6247980" rel="nofollow">[PDF]</a>
+<p><em>T. Baltrusaitis and P. Robinson and L. Morency</em></p>
+
 <h5><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[Sugano-etal2010] Calibration-free gaze sensing using saliency maps. <a href="https://ieeexplore.ieee.org/document/5539984" rel="nofollow">[PDF]</a>
 <p><em>Yusuke Sugano and Yasuyuki Matsushita and Yoichi Sato</em></p>
 
@@ -136,7 +139,7 @@
 <h5><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[Zhang-etal2017 CVPRW] It's Written All Over Your Face: Full-Face Appearance-Based Gaze Estimation. <a href="https://ieeexplore.ieee.org/document/8015018" rel="nofollow">[PDF]</a>
 <p><em>Xucong Zhang and Yusuke Sugano and Mario Fritz and Andreas Bulling</em></p>
 
-<h5><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[Mora-Odobez2012 CVPRW] Gaze estimation from multimodal Kinect data. <a href="Gaze estimation from multimodal Kinect data" rel="nofollow">[PDF]</a>
+<h5><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>[Mora-Odobez2012 CVPRW] Gaze estimation from multimodal Kinect data. <a href="https://ieeexplore.ieee.org/document/6239182" rel="nofollow">[PDF]</a>
 <p><em>Kenneth Alberto Funes Mora and Jean-Marc Odobez</em></p>
 
 
@@ -232,7 +235,7 @@
     <td class="tg-baqh">Frontal</td>
   </tr>
   <tr>
-    <td class="tg-0lax">ICT 3D Head pose</td>
+    <td class="tg-0lax"><a href="#ict">ICT 3D Head pose</a></td>
     <td class="tg-baqh">RGB-D</td>
     <td class="tg-baqh">Camera frame</td>
     <td class="tg-baqh">Head pose vector</td>
@@ -322,4 +325,5 @@
 </table>
 
 
-
+<h5><a id="user-content-ict" class="anchor" aria-hidden="true" href="#ict"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="#ict">ICT 3D Head pose</a>: [Baltrusaitis-etal2012 CVPR] 3D Constrained Local Model for rigid and non-rigid facial tracking. <a href="https://ieeexplore.ieee.org/document/6247980" rel="nofollow">[PDF]</a>
+<p><em>T. Baltrusaitis and P. Robinson and L. Morency</em></p>
