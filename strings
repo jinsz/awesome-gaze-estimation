@@ -1,5 +1,5 @@
 Computer vision BibTeX strings
-updated: 05/10/2018
+updated: 08/10/2018
 
 @String{aab            = {Advances in Animal Biosciences}}
 @String{access         = {IEEE Access}}
@@ -32,7 +32,7 @@ updated: 05/10/2018
 @String{dicta          = "Proceedings of International Conference on Digital Image Computing: Techniques and Applications"}
 @String{dsmc           = {Journal of Dynamic Systems, Measurement and Control}}
 @String{eccv           = "Proceedings of European Conference on Computer Vision"}
-@String{eccv-cvrsuad   ="Proceedings of ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving"}
+@String{eccv-cvrsuad   = "Proceedings of ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving"}
 @String{eccv-ttcv      = {Proceedings of ECCV Workshop on Trends and Topics in Computer Vision}}
 @String{elsevier       = "Elsevier"}
 @String{etra           = {Proceedings of the Eye Tracking Research and Application Symposium}}
@@ -40,7 +40,8 @@ updated: 05/10/2018
 @String{ftcgv          = {Foundations and Trends in Computer Graphics and Vision}}
 @String{gcpr           = {Proceedings of German Conference on Pattern Recognition}}
 @String{hacippr        = "Joint Hungarian-Austrian Conference on Image Processing and Pattern Recognition"} 
-@String{hri           = "Proceedings of International Conference on Human-Robot Interaction"}
+@String{hfcs           = {Proceedings of International Conference on Human Factors in Computing Systems}}
+@String{hri            = "Proceedings of International Conference on Human-Robot Interaction"}
 @String{iaes           = {Institute of Advanced Engineering and Science}}
 @String{ic3dv          = {Proceedings of International Conference on 3D Vision}}
 @String{icagis         = {Proceedings of International Conference on Advances in Geographic Information Systems}}
@@ -142,7 +143,7 @@ updated: 05/10/2018
 @String{tim            = {IEEE Transactions on Instrumentation and Measurement}}
 @String{tip            = "IEEE Transactions on Image Processing"}
 @String{tits           = {IEEE Transactions on Intelligent Transportation Systems}}
-@String{tmm             = {IEEE Transactions on Multimedia}}
+@String{tmm            = {IEEE Transactions on Multimedia}}
 @String{tog            = {ACM Transactions on Graphics}}
 @String{toms           = {ACM Transactions on Mathematical Software}}
 @String{tpami          = "IEEE Transactions on Pattern Analysis and Machine Intelligence"}
@@ -152,7 +153,9 @@ updated: 05/10/2018
 @String{tre            = {Transportation Research Part C: Emerging Technologies}}
 @String{tret           = {Transportation Research}}
 @String{tsmc           = {IEEE Transactions on Systems, Man, and Cybernetics}}
+@String{UbiComp        = {Proceedings of International Joint Conference on Pervasive and Ubiquitous Computing}}
 @String{uist           = {Proceedings of the User Interface Software and Technology Symposium}}
+@String{urai           = {Proceedings of International Conference on Ubiquitous Robots and Ambient Intelligence}}
 @String{vcir           = {Journal of Visual Communication and Image Representation}}
 @String{visapp         = "Proceedings of International Conference on Computer Vision Theory and Applications"}
 @String{wacv           = {Workshop on Applications of Computer Vision}}
